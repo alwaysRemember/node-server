@@ -61,7 +61,6 @@ category.forEach(c => {
     };
   });
 });
-console.log(loggerConf);
 
 log4js.configure(loggerConf);
 
